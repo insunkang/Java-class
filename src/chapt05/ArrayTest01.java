@@ -28,6 +28,7 @@ public class ArrayTest01 {
 		//정수형 - 0
 		//boolean  - false
 		//실수형 -  0.0
+		
 		System.out.println(numarr[0]);
 		System.out.println(boolarr[0]);
 		System.out.println(longarr[0]);
